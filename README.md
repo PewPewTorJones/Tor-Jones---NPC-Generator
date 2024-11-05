@@ -1,6 +1,6 @@
 # Tor-Jones---NPC-Generator
 
-## This generator takes the input of the user for the name and randomly generates everything else.
+## This generator takes the input of the user for the name and randomly generates the age, characteristics, and other attributes that a character may have.
 # Name:
 
 ```
